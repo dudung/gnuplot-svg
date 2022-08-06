@@ -10,6 +10,12 @@ b = -10
 c = 21
 f(x) = a * x**2 + b * x + c
 
+# define data points
+$data << EOD
+3 0
+7 0
+EOD
+
 # set terminal and output file
 set output "quadratic-curve.svg"
 set term svg size 480,300 font "Times, 14"
@@ -28,4 +34,4 @@ set samples 100
 
 # do plotting
 set label "f(x) = " . a . "x^2 + " . b . "x + " . c at 5,10 center
-plot f(x) t "" lw 2 lc 7
+plot f(x) t "" lw 2 lc 7, "$data" w p t "" ps 1 pt 7 lc 6

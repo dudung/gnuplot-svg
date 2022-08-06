@@ -312,6 +312,16 @@
 		L409.95,118.97 L413.65,113.36 L417.35,107.59 L421.05,101.69 L424.74,95.64 L428.44,89.44 L432.14,83.10 L435.83,76.62
 		L439.53,69.99 L443.23,63.22 L446.92,56.31 L450.62,49.25  '/></g>
 	</g>
+	<g id="gnuplot_plot_2" ><title>gnuplot_plot_2</title>
+<g fill="none" color="white" stroke="rgb(229,  30,  16)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<use xlink:href='#gpPt6' transform='translate(157.83,162.20) scale(5.25)' color='rgb(  0, 114, 178)'/>
+	<use xlink:href='#gpPt6' transform='translate(377.42,162.20) scale(5.25)' color='rgb(  0, 114, 178)'/>
+</g>
+	</g>
+<g fill="none" color="white" stroke="rgb(  0, 114, 178)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
