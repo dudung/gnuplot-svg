@@ -14,3 +14,4 @@ where `a_script.gnu` is one of the provided examples.
 + [hello](hello) (2)
 + [axis](axis) (8)
 + [function](function) (3)
++ [interference](interference) (7)
