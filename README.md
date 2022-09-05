@@ -3,7 +3,7 @@ examples of gnuplot script to produce svg image
 
 
 ## execute
-Use gnuplot in command line as
+Use [gnuplot](https://github.com/gnuplot/gnuplot) in command line as
 
 ```
 gnuplot a_script.gnu
