@@ -1,5 +1,5 @@
 # gnuplot-svg
-examples of gnuplot script to produce svg image
+Examples of gnuplot script to produce svg image
 
 
 ## execute
