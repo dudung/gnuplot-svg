@@ -2,7 +2,7 @@
 Create "Hello, World!" message
 
 
-## axis
+## hello message
 Result | Script
 :-: | :-:
 ![](hello.svg) | [hello](hello.gnu)

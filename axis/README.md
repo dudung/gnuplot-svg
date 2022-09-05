@@ -2,7 +2,7 @@
 Create axis with and without grid as base of a figure
 
 
-## axis
+## axis only
 Result | Script
 :-: | :-:
 ![](xy-axis-sw.svg) | [xy-axis-sw](xy-axis-sw.gnu)
