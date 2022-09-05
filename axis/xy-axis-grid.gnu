@@ -11,16 +11,19 @@ set grid
 set tics scale 0
 unset border
 
+# arrow head
+ahead = 'size 0.2,20 filled lw 2' 
+
 # x axis
 set xrange [0:4]
 set xtics 1
-set arrow from 0,0 to 1,0
+set arrow from 0,0 to 1,0 @ahead
 set label "x" at 1 + 0.1, 0 + 0.05 left enhanced font "Times, 20"
 
 # y axis
 set yrange [0:4]
 set ytics 1
-set arrow from 0,0 to 0,1
+set arrow from 0,0 to 0,1 @ahead
 set label "y" at 0, 1 + 0.3 center enhanced font "Times, 20"
 
 # output and label to display

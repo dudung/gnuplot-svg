@@ -178,8 +178,17 @@
 	<g transform="translate(44.05,187.48)" stroke="none" fill="black" font-family="Times" font-size="20.00"  text-anchor="middle">
 		<text><tspan font-family="Times" >y</tspan></text>
 	</g>
-	<path stroke='black'  d='M84.29,262.38 L100.70,257.99 L84.29,253.60 M44.06,257.99 L100.70,257.99 M48.66,215.90 L44.06,198.74 L39.46,215.90
-		M44.06,257.99 L44.06,198.74  '/></g>
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'black' points = '90.07,257.99 90.07,254.12 100.70,257.99 90.07,261.86 90.07,257.99 '/>
+	</g>
+	<path stroke='black'  d='M90.07,257.99 L90.07,254.12 L100.70,257.99 L90.07,261.86 L90.07,257.99 Z  '/>	<path stroke='black'  d='M44.06,257.99 L90.07,257.99  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'black' points = '44.06,209.37 40.19,209.37 44.06,198.74 47.93,209.37 44.06,209.37 '/>
+	</g>
+	<path stroke='black'  d='M44.06,209.37 L40.19,209.37 L44.06,198.74 L47.93,209.37 L44.06,209.37 Z  '/>	<path stroke='black'  d='M44.06,257.99 L44.06,209.37  '/></g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 	<g id="gnuplot_plot_1" ><title>gnuplot_plot_1</title>
