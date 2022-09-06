@@ -6,4 +6,4 @@ Illustration of (simple) machines using gnuplot
 Result | Script
 :-: | :-:
 ![](incline-call.svg) | [incline-call](incline-call.gnu)<br>[incline](incline.gnu)
-![](pulley.svg) | [pulley](pulley.gnu)
+![](pulley-call.svg) | [pulley-call](pulley-call.gnu)<br>[pulley](pulley.gnu)
