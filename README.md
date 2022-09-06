@@ -18,3 +18,5 @@ where `<a_script>.gnu` is one of the provided examples and an output of `<name>.
 + [interference](interference) (7)
 + [object](object) (5)
 + [machine](machine) (6)
++ diagram
+  + [free-body](diagram/free-body) (1)
