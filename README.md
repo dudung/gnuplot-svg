@@ -16,4 +16,4 @@ where `a_script.gnu` is one of the provided examples.
 + [function](function) (3)
 + [interference](interference) (7)
 + [object](object) (5)
-+ [machine](machine) (2)
++ [machine](machine) (4)
