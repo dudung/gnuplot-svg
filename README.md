@@ -15,4 +15,4 @@ where `a_script.gnu` is one of the provided examples.
 + [axis](axis) (8)
 + [function](function) (3)
 + [interference](interference) (7)
-+ [object](object) (4)
++ [object](object) (5)

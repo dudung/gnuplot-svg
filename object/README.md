@@ -9,3 +9,4 @@ Result | Script
 ![](ellipse-min-script.svg) | [ellipse-min-script](ellipse-min-script.gnu)
 ![](circle-min-script.svg) | [circle-min-script](circle-min-script.gnu)
 ![](polygon-min-script.svg) | [polygon-min-script](polygon-min-script.gnu)
+![](triangle-min-script.svg) | [triangle-min-script](triangle-min-script.gnu)
