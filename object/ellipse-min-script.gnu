@@ -7,7 +7,7 @@
 set term svg size 540,300 font "Times, 16"
 set output 'ellipse-min-script.svg'
 
-# rectangle
+# ellipse
 set object 1 ellipse at 5, 2  size 4, 2
 
 # grid and tics

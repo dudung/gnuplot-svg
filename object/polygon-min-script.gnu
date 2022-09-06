@@ -7,7 +7,7 @@
 set term svg size 540,300 font "Times, 16"
 set output 'polygon-min-script.svg'
 
-# rectangle
+# polygon
 set object 1 polygon \
 	from 1, 1 \
 	to 2, 1 \

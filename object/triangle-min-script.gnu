@@ -7,7 +7,7 @@
 set term svg size 540,300 font "Times, 16"
 set output 'triangle-min-script.svg'
 
-# rectangle
+# triangle
 set object 1 polygon \
 	from 1, 1 \
 	to 7, 1 \

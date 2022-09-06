@@ -7,7 +7,7 @@
 set term svg size 540,300 font "Times, 16"
 set output 'circle-min-script.svg'
 
-# rectangle
+# circle
 set object 1 circle at 2, 2  size 1
 
 # grid and tics
