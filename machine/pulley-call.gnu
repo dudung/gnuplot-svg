@@ -42,10 +42,10 @@ call 'pulley.gnu' id x y r
 call 'pulley.gnu' 106 9 3 2
 
 # string
-set arrow from 3, 3 to 3, 6 size 0.4, 17 lw 2 filled
-set arrow from 5, 3 to 5, 6 size 1, 0 lw 2
-set arrow from 7, 6 to 7, 3 size 1, 0 lw 2
-set arrow from 11, 3 to 11, 7 size 1, 0 lw 2
+set arrow from 3, 3 to 3, 6 size 0.4, 17 lw 1 filled
+set arrow from 5, 3 to 5, 6 size 1, 0 lw 1
+set arrow from 7, 6 to 7, 3 size 1, 0 lw 1
+set arrow from 11, 3 to 11, 7 size 1, 0 lw 1
 
 # show results
 plot NaN t ''

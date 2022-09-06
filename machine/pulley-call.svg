@@ -559,14 +559,10 @@
 		L307.77,169.22 L307.91,169.17 L308.04,169.11 L308.18,169.04 L308.31,168.97 L308.44,168.90 L308.56,168.81 L308.68,168.72
 		L308.79,168.62 L308.90,168.52 L309.00,168.41 L309.10,168.30 L309.19,168.18 L309.28,168.06 L309.35,167.93 L309.42,167.80
 		L309.49,167.66 L309.55,167.53 L309.60,167.39 L309.64,167.24 L309.67,167.10 L309.70,166.95 L309.72,166.80 L309.73,166.65
-		L309.73,166.50 Z  '/></g>
-<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g stroke='none' shape-rendering='crispEdges'>
+		L309.73,166.50 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
 		<polygon fill = 'black' points = '135.91,91.89 132.58,91.89 135.91,81.00 139.24,91.89 135.91,91.89 '/>
 	</g>
 	<path stroke='black'  d='M135.91,91.89 L132.58,91.89 L135.91,81.00 L139.24,91.89 L135.91,91.89 Z  '/>	<path stroke='black'  d='M135.91,166.49 L135.91,91.89 M192.91,109.49 L192.91,81.00 L192.91,109.49 Z  '/>	<path stroke='black'  d='M192.91,166.49 L192.91,81.00 M249.91,138.00 L249.91,166.49 L249.91,138.00 Z  '/>	<path stroke='black'  d='M249.91,81.00 L249.91,166.49 M363.90,80.99 L363.90,52.50 L363.90,80.99 Z  '/>	<path stroke='black'  d='M363.90,166.49 L363.90,52.50  '/></g>
-<g fill="none" color="white" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 	<g id="gnuplot_plot_1" ><title>gnuplot_plot_1</title>
