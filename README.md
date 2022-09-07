@@ -19,4 +19,4 @@ where `<a_script>.gnu` is one of the provided examples and an output of `<name>.
 + [object](object) (5)
 + [machine](machine) (6)
 + diagram
-  + [free-body](diagram/free-body) (1)
+  + [free-body](diagram/free-body) (4)
