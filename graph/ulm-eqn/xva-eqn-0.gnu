@@ -7,7 +7,7 @@
 set term svg size 200,240 font "Times, 16" enhanced
 set grid
 set tics scale 0.4
-set xlabel "{/Times:Italic t}"
+set xlabel "{/Times:Italic t}" offset 0, 0.5
 set xrange [0:]
 set ylabel '' offset 2
 set lmargin 6
