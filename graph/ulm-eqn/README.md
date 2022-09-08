@@ -1,9 +1,8 @@
-# uniform-linear-motion
-Graph of motion variable for uniform linear motion
+# ulm-eqn
+Graph of motion variable for uniform linear motion with equation
 
 
-## xva-eqn-0
-Result | Script
-:-: | :-:
-![](xva-eqn-0-pos.svg) ![](xva-eqn-0-vel.svg) ![](xva-eqn-0-acc.svg) | [xva-eqn-0](xva-eqn-0.gnu)
-$r(t) = 4*t - 5$ $v(t) = 4$ $a(t) = 0$
+## xva-eqn
+$x$ | $v$ | $a$ | Script
+:-: | :-: | :-: | :-:
+![](xva-eqn-0-pos.svg)<br>$x(t) = 4t - 5$ | ![](xva-eqn-0-vel.svg)<br>$v(t) = 4$ | ![](xva-eqn-0-acc.svg)<br>$a(t) = 0$ | [0](xva-eqn-0.gnu)
