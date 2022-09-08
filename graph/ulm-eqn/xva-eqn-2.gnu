@@ -1,4 +1,4 @@
-# xva-eqn-0.gnu
+# xva-eqn-2.gnu
 # Sparisoma Viridi
 # https://github.com/dudung/gnuplot-svg
 # 2022.09.09.40198
@@ -19,9 +19,9 @@ vel_color = '#00ff00'
 acc_color = '#ff0000'
 
 # functions num
-num = 0
-r(t) = 3*t + 5
-v(t) = 3
+num = 2
+r(t) = t - 2
+v(t) = 1
 a(t) = 0
 
 # position graph
