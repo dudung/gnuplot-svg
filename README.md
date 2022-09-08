@@ -22,4 +22,4 @@ where `<a_script>.gnu` is one of the provided examples and an output of `<name>.
   + [free-body](diagram/free-body) (4)
 + graph
   + [uniform-linear-motion](graph/uniform-linear-motion) (15)
-  + [ulm-eqn](graph/ulm-eqn) (1)
+  + [ulm-eqn](graph/ulm-eqn) (9)
