@@ -20,3 +20,5 @@ where `<a_script>.gnu` is one of the provided examples and an output of `<name>.
 + [machine](machine) (6)
 + diagram
   + [free-body](diagram/free-body) (4)
++ graph
+  + [uniform linear motion](graph/uniform-linear-motion) (15)
