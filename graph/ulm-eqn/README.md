@@ -5,7 +5,7 @@ Graph of motion variable for uniform linear motion with equation
 ## a = 0, v > 0
 $x$ | $v$ | $a$ | Script
 :-: | :-: | :-: | :-:
-![](xva-eqn-0-pos.svg)<br>$x(t) = 3t + 5$ | ![](xva-eqn-0-vel.svg)<br>$v(t) = 4$ | ![](xva-eqn-0-acc.svg)<br>$a(t) = 0$ | [0](xva-eqn-0.gnu)
+![](xva-eqn-0-pos.svg)<br>$x(t) = 3t + 5$ | ![](xva-eqn-0-vel.svg)<br>$v(t) = 3$ | ![](xva-eqn-0-acc.svg)<br>$a(t) = 0$ | [0](xva-eqn-0.gnu)
 ![](xva-eqn-1-pos.svg)<br>$x(t) = 2t$ | ![](xva-eqn-1-vel.svg)<br>$v(t) = 2$ | ![](xva-eqn-1-acc.svg)<br>$a(t) = 0$ | [1](xva-eqn-1.gnu)
 ![](xva-eqn-2-pos.svg)<br>$x(t) = t - 2$ | ![](xva-eqn-2-vel.svg)<br>$v(t) = 1$ | ![](xva-eqn-2-acc.svg)<br>$a(t) = 0$ | [2](xva-eqn-2.gnu)
 
