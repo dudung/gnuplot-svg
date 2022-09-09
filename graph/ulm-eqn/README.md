@@ -17,7 +17,7 @@ $x$ | $v$ | $a$ | Script
 ![](xva-eqn-4-pos.svg)<br>$x(t) = 0$ | ![](xva-eqn-4-vel.svg)<br>$v(t) = 0$ | ![](xva-eqn-4-acc.svg)<br>$a(t) = 0$ | [4](xva-eqn-4.gnu)
 ![](xva-eqn-5-pos.svg)<br>$x(t) = -1$ | ![](xva-eqn-5-vel.svg)<br>$v(t) = 0$ | ![](xva-eqn-5-acc.svg)<br>$a(t) = 0$ | [5](xva-eqn-5.gnu)
 
-## a = 0, < = 0
+## a = 0, v < 0
 $x$ | $v$ | $a$ | Script
 :-: | :-: | :-: | :-:
 ![](xva-eqn-6-pos.svg)<br>$x(t) = -t + 1$ | ![](xva-eqn-6-vel.svg)<br>$v(t) = -1$ | ![](xva-eqn-6-acc.svg)<br>$a(t) = 0$ | [6](xva-eqn-6.gnu)
