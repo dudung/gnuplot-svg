@@ -1,4 +1,4 @@
-# a > 0, v > 0, x = 0
+# $a > 0$, $v_0 > 0$, $x_0 = 0$
 Graph | Equation
 :-: | :-:
 ![](nulm-xva-eqn-1-acc.svg) | $a = 1$
