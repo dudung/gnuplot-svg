@@ -19,3 +19,4 @@ Graph | Script
 :-: | :-:
 [$a > 0$, $v_0 = 0$, $x_0 < 0$](nulm-xva-eqn-6.md) | [nulm-xva-eqn-6.gnu](nulm-xva-eqn-6.gnu)
 [$a > 0$, $v_0 > 0$, $x_0 < 0$](nulm-xva-eqn-7.md) | [nulm-xva-eqn-7.gnu](nulm-xva-eqn-7.gnu)
+[$a > 0$, $v_0 < 0$, $x_0 < 0$](nulm-xva-eqn-8.md) | [nulm-xva-eqn-8.gnu](nulm-xva-eqn-8.gnu)
